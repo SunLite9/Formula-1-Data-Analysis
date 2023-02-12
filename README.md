@@ -6,4 +6,4 @@ As a long time Formula 1 fan, I wanted to further my knowledge of the sport by a
 I wanted to take a look at how the points differed from drivers on a race by race basis and highlight the differences in driver lap times on select tracks. 
 Additionally, I wanted to examine how the seasons/races are influenced on the mechanical failures of the vehicles. 
 
-This is all done through google colab. I have linked the files in the project. 
+This is all done through google colab. I have linked the data files in the folder f1pro. 
